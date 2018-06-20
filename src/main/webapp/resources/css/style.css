@@ -1,0 +1,172 @@
+body {
+    font: 11pt Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    color: #f38630;
+}
+
+h2 {
+    margin-top: 0;
+    text-align:center;
+}
+
+#header {
+    background: #000000;
+    padding: 10px;
+}
+
+#sidebar {
+    float: left;
+    border: 1px solid #333;
+    width: 20%;
+    padding: 5px;
+    margin: 10px 10px 20px 5px;
+}
+
+#content {
+    margin: 10px 5px 20px 25%;
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+#footer {
+    background: #333;
+    padding: 5px;
+    color: #000000;
+    clear: left;
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: #aaa;
+}
+
+.tg td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 0px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #aaa;
+    color: #333;
+    background-color: #fff;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+}
+
+.tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 0px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #aaa;
+    color: #fff;
+    background-color: #f38630;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+}
+
+.tg .tg-qsvf {
+    font-size: 18px;
+    vertical-align: top
+}
+
+.tg .tg-13pz {
+    font-size: 18px;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-yw4l {
+    vertical-align: top
+}
+
+.tr-al{
+    text-align: center;
+}
+
+.t-t2{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+
+.content-add{
+    text-align:center;
+    margin: 0 auto;
+}
+
+.tw1{
+    width: 2%;
+}
+
+.tw2{
+    width: 6%;
+}
+
+.tw3{
+    width: 53%;
+}
+
+.tw4{
+    width: 5.5%;
+}
+
+.tw5{
+    width: 6.5%;
+}
+
+.tw6{
+    width: 6%;
+}
+
+.tw7{
+    width: 7.5%;
+}
+
+.tw8{
+    width: 4%;
+}
+
+.tw9{
+    width: 4%;
+}
+
+.tw10{
+    width: 5.5%;
+}
+
+.tws1{
+    width: 2.5%;
+}
+
+.tws2{
+    width: 8%;
+}
+
+.tws3{
+    width: 71.5%;
+}
+
+.tws4{
+    width: 5.5%;
+}
+
+.tws5{
+    width: 6.5%;
+}
+
+.tws6{
+    width: 6%;
+}
